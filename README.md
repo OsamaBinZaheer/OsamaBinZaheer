@@ -1,51 +1,75 @@
-# Backend Engineer - Readme
 
-## Introduction
+# Osama Bin Zaheer
 
-Welcome to my professional Readme as a Backend Engineer with extensive experience in Java, Docker, MySQL, GCP Console, Firebase, and DataGrip. This document provides an overview of my skills, experience, and project highlights.
+**Software Engineer**  
+Rawalpindi, Pakistan  
+📧 [iosamasatti96@gmail.com](mailto:iosamasatti96@gmail.com)  
+🌐 [Portfolio](https://osamabinzaheer.github.io/portfolio)  
+📞 +92-336-5981384  
 
-## Skills
+---
 
-- **Programming Languages:** Proficient in Java with a strong understanding of object-oriented programming principles.
-- **Containerization:** Skilled in Docker for creating, deploying, and managing containerized applications.
-- **Database Management:** Experienced with MySQL for designing and optimizing database schemas, queries, and performance.
-- **Cloud Services:** Proficient in using GCP Console for managing cloud resources, deploying applications, and configuring services.
-- **Firebase:** Skilled in leveraging Firebase services for backend development, authentication, and real-time data synchronization.
-- **IDE:** Comfortable using DataGrip as a tool for efficient database management and querying.
+## 👨‍💻 About Me
 
-## Experience
+Driven and versatile Software Engineer with a strong background in backend development, particularly in Java-based applications. Known for my expertise in developing secure, scalable APIs and maintaining high-performance server-side applications. Experienced in working with clients and managing cross-functional teams to ensure project alignment and quality delivery.
 
-### Backend Developer | XYZ Tech Solutions
-*Jan 2020 - Present*
+### Skills
 
-- Developed and maintained RESTful APIs using Java and Spring Framework, improving system performance by 30%.
-- Containerized microservices using Docker, leading to faster deployment and scalability.
-- Designed complex database schemas in MySQL, optimized queries, and managed data migration processes.
-- Collaborated with frontend and mobile app teams to integrate backend services and ensure seamless user experiences.
-- Implemented Firebase authentication and real-time database features to enhance user engagement in mobile applications.
+- **Languages & Technologies:** Java, Python, C++, SQL, Docker, Spring Boot, Hibernate, Django
+- **Tools:** GCP, Docker, GitHub, Bitbucket, IntelliJ, VS Code, DataGrip, JIRA
+- **Operating Systems:** Windows, Mac, Ubuntu
+- **Certifications:** Technical Support Fundamentals (Google), Crash Course on Python (Google), Excel Skills for Business (Macquarie University)
 
-### Software Engineer Intern | ABC Software
-*May 2019 - Aug 2019*
+---
 
-- Assisted in designing and developing backend modules for a cloud-based project using Java and Spring Boot.
-- Collaborated with senior developers to optimize database performance, reducing query execution time by 20%.
-- Gained hands-on experience with GCP Console, provisioning virtual machines, and setting up network configurations.
+## 🎓 Education
 
-## Projects
+- **B.Sc. in Electrical Telecommunication Engineering**  
+  COMSATS University Islamabad, 2016 - 2020  
+  *Graduated with a CGPA of 3.66 (Silver Medalist)*
 
-### ABC Platform Backend
-- Created 
+---
 
-## Education
+## 💼 Experience
 
-### Bachelor of Science in Computer Science
-*University of Technology, Anytown*
-*Graduated: May 2020*
+### Software Engineer Integration 
+**Evamp & Saanga**  
+*Oct 2024 - present*
 
-## Contact
+- Developed and managed backend operations for SaaS applications
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/osamabinzaheersatti)
-- GitHub: [Your GitHub Profile](https://github.com/osamabinzaheer)
+### Backend Software Engineer  
+**Z-Axiss SMC Pvt. LTD / Trillo Inc. (California, USA)**  
+*Jan 2022 - Sep 2024*
 
-Feel free to reach out to me for collaboration opportunities, discussions, or any inquiries related to backend development, Java, Docker, MySQL, GCP Console, Firebase, or DataGrip.
+- Developed and managed backend operations for SaaS applications on **Java (Trillo Workbench)**.
+- Integrated third-party applications, including Stripe, Zoho Meeting, and DoseSpot.
+- Deployed applications using **GCP Kubernetes** and **Dockerized** build mechanisms.
+- Key projects: One Diamond Marketing, CORSTET, MyGutFeeling, and Zero Trafficking.
+
+### RF Engineer III  
+**Lightbridge Communication Corporation (LCC)**  
+*Dec 2020 - Dec 2021*
+
+- Led 5G spectrum scanning for Telenor, covering over 16 cities and optimizing nationwide coverage.
+- Conducted audits for Pakistan Air Force projects, with site optimizations and KPI assessments.
+
+### Internships  
+
+- **Pakistan Telecommunication Company Limited** *(2017)* - Network Optimization  
+- **Karachi Steel Services Engineering** *(2018)* - Industrial Engineering Exposure  
+
+---
+
+## 🌱 Certifications & Training
+
+- **Technical Support Fundamentals** - Google  
+- **Crash Course on Python** - Google  
+- **Excel Skills for Business** - Macquarie University  
+
+---
+
+## 💬 Languages
+
+- English, Urdu, Punjabi  
+
